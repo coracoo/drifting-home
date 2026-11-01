@@ -1,0 +1,7 @@
+漂泊家园新格候选 da51be97d7afff1bf6ad225ef66f368829f246e7
+Tree acc764613bd8a3c263d7186dec086aded10ee433
+入口 scenes/grid_v3/full_ui.tscn；非旧dfc。未发布候选，平台性能/触控未验。
+独立userfs /userfs/drifting-home-grid-v3；检查点grid-v3-gameplay-c2c.json。不自动迁移旧Main存档。
+本包包括房壳、住房、生产分配与设备添置移动、设置和列表修复。net/filter仍占位模型，限时雇佣/Spine未完成。
+浏览器 WebGL 实机、IndexedDB 刷新后持久化尚未验证；headless PCK 探针不代替浏览器验收。
+房壳展示当前选中楼层剖面，并非三层同屏完整建筑；手机触控、FPS和整游戏均未验收。
